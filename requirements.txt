@@ -34,7 +34,7 @@ jaraco.functools==4.4.0
 jeepney==0.9.0
 keyring==25.7.0
 magic-filter==1.0.12
-Mako==1.3.12.dev0
+Mako==1.3.12
 Markdown==3.10.2
 MarkupSafe==3.0.3
 meson==1.9.2
